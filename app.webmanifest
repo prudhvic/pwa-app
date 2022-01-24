@@ -1,0 +1,22 @@
+{
+  "name": "jacinto design",
+  "short_name": "jacinto design",
+  "start_url": "./",
+  "orientation": "landscape",
+  "theme_color": "#Faebd7",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./mask.png",
+      "sizes": "1200x1200",
+      "type": "image/png"
+    },
+    {
+      "src": "./mask2.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
